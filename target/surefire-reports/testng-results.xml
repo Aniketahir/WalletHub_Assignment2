@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26459" started-at="2020-06-01T12:21:34Z" finished-at="2020-06-01T12:22:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26459" started-at="2020-06-01T12:21:34Z" finished-at="2020-06-01T12:22:00Z">
+      <class name="com.testAssignment.GooglePage">
+        <test-method status="PASS" signature="initialProcess()[pri:0, instance:com.testAssignment.GooglePage@2d3fcdbd]" name="initialProcess" is-config="true" duration-ms="7401" started-at="2020-06-01T12:21:34Z" finished-at="2020-06-01T12:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialProcess -->
+        <test-method status="PASS" signature="openGmail()[pri:0, instance:com.testAssignment.GooglePage@2d3fcdbd]" name="openGmail" duration-ms="10544" started-at="2020-06-01T12:21:41Z" finished-at="2020-06-01T12:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method status="PASS" signature="lastProcess()[pri:0, instance:com.testAssignment.GooglePage@2d3fcdbd]" name="lastProcess" is-config="true" duration-ms="741" started-at="2020-06-01T12:21:52Z" finished-at="2020-06-01T12:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastProcess -->
+      </class> <!-- com.testAssignment.GooglePage -->
+      <class name="com.testAssignment.RahulShetty">
+        <test-method status="PASS" signature="initialisationOfBrowser()[pri:0, instance:com.testAssignment.RahulShetty@617c74e5]" name="initialisationOfBrowser" is-config="true" duration-ms="6133" started-at="2020-06-01T12:21:52Z" finished-at="2020-06-01T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisationOfBrowser -->
+        <test-method status="PASS" signature="MycoursePage()[pri:0, instance:com.testAssignment.RahulShetty@617c74e5]" name="MycoursePage" duration-ms="858" started-at="2020-06-01T12:21:58Z" finished-at="2020-06-01T12:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MycoursePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testAssignment.RahulShetty@617c74e5]" name="tearDown" is-config="true" duration-ms="757" started-at="2020-06-01T12:21:59Z" finished-at="2020-06-01T12:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testAssignment.RahulShetty -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

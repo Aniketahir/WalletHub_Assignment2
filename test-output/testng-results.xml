@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13513" started-at="2020-06-01T12:20:42Z" finished-at="2020-06-01T12:20:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13513" started-at="2020-06-01T12:20:42Z" finished-at="2020-06-01T12:20:55Z">
+      <class name="com.testAssignment.GooglePage">
+        <test-method status="PASS" signature="initialProcess()[pri:0, instance:com.testAssignment.GooglePage@14acaea5]" name="initialProcess" is-config="true" duration-ms="5173" started-at="2020-06-01T12:20:42Z" finished-at="2020-06-01T12:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialProcess -->
+        <test-method status="PASS" signature="openGmail()[pri:0, instance:com.testAssignment.GooglePage@14acaea5]" name="openGmail" duration-ms="8309" started-at="2020-06-01T12:20:47Z" finished-at="2020-06-01T12:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method status="PASS" signature="lastProcess()[pri:0, instance:com.testAssignment.GooglePage@14acaea5]" name="lastProcess" is-config="true" duration-ms="1" started-at="2020-06-01T12:20:55Z" finished-at="2020-06-01T12:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastProcess -->
+      </class> <!-- com.testAssignment.GooglePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
